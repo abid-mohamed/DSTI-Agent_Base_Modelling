@@ -19,3 +19,8 @@ Based on the updated position of the photon, three situations may occur: <br />
 The above process is repeated until either the photon is lost or it reaches the photo-detector. <br />
 
 Mohamed ABID (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/
+
+References <br />
+C. Gabriel, M. Khalighi, S. Bourennane, P. Leon and V. Rigaud, “Monte-Carlo-based channel characterization for underwater optical communication systems,” in Journal of Optical Communications and Networking, vol. 5, no. 1, pp. 1-12, Jan. 2013, doi: 10.1364/JOCN.5.000001.
+
+Fredriksson, Ingemar. (2009). Quantitative Laser Doppler Flowmetry
