@@ -17,3 +17,5 @@ Based on the updated position of the photon, three situations may occur: <br />
 	- The photon hits a particle. In this case it undergoes a loss of energy depending on the water characteristics and then gets deviated by a random angle following the Henyey–Greenstein Model. <br />
 <br />    	
 The above process is repeated until either the photon is lost or it reaches the photo-detector. <br />
+
+Mohamed ABID (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). CoMSES Computational Model Library. Retrieved from: https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/
