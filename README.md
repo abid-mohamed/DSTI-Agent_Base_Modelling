@@ -1,5 +1,7 @@
 # ABM for Underwater optical wireless communication in a water tank
 
+![image-Underwater-optical-wireless-communication-in-a-water-tank](https://www.comses.net/media/images/sharedlibrary23ce38af-ae87-47bf-b9e3-2523a54.max-900x600.png)
+
 This model simulates the propagation of photons in a water tank. A source of light emits an impulse of photons with equal energy represented by yellow dots. These photons are then scattered by water particles before possibly reaching the photo-detector represented by a gray line. Different types of water are considered. For each one of them we calculate the total received energy.
 
 The water tank is represented by a blue rectangle with fixed dimensions. It’s exposed to the air interface and has totally absorbent barriers. Four types of water are supported. Each one is characterized by its absorption and scattering coefficients. <br />
