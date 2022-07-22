@@ -15,5 +15,5 @@ Based on the updated position of the photon, three situations may occur: <br />
         * If the incident angle is smaller than the critical angle, the photon is reflected with a loss of energy depending on the Fresnel coefficient. <br />
 <br />		
     - The photon hits a particle. In this case it undergoes a loss of energy depending on the water characteristics and then gets deviated by a random angle following the Henyey–Greenstein Model. <br />
-<br />	
+	
 The above process is repeated until either the photon is lost or it reaches the photo-detector. <br />
