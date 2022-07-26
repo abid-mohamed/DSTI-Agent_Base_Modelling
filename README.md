@@ -1,8 +1,7 @@
 # ABM for Underwater optical wireless communication in a water tank
 
 <img
-  src="C:/Users/abid.med/Documents/MA/GitHub/abm.png"
-  alt="Alt text"
+  src="[C:/Users/abid.med/Documents/MA/GitHub/abm.png](https://user-images.githubusercontent.com/60750594/180988604-01153221-14c7-43c4-8947-0ef3abdbee0a.png)"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
