@@ -1,4 +1,11 @@
 # ABM for Underwater optical wireless communication in a water tank
+
+<img
+  src="C:/Users/abid.med/Documents/MA/GitHub/abm.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 ![68747470733a2f2f7777772e636f6d7365732e6e65742f6d656469612f696d616765732f7368617265646c69627261727932336365333861662d616538372d343762662d623965332d323532336135342e6d61782d393030783630302e706e67](https://user-images.githubusercontent.com/60750594/180988604-01153221-14c7-43c4-8947-0ef3abdbee0a.png)
 
 This model simulates the propagation of photons in a water tank. A source of light emits an impulse of photons with equal energy represented by yellow dots. These photons are then scattered by water particles before possibly reaching the photo-detector represented by a gray line. Different types of water are considered. For each one of them we calculate the total received energy.
